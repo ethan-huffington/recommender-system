@@ -9,7 +9,8 @@ Incoming customer behavior information retrieves candidate item embeddings which
 
 ### Project Overview
 Due to the sligtly complex nature of the project sequence, data sources, storage, and eventual deployment orchestration, the diagram below was created to provide a conceptual overview of the interacting components in this project:
-<img src="images/project-overview.gif" width="75%" height="75%" alt="Project Overview">
+
+<img src="images/project-overview.gif" width="85%" height="85%" alt="Project Overview">
 
 Future work will see the addition of more features, model optimizations and a transition to deployments within the AWS ecosystem for further control and customization. 
 
