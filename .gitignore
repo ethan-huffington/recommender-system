@@ -1,0 +1,4 @@
+gitignore_files/
+logs/
+catboost_info/
+ranking_model.pkl
